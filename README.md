@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm [ ALFIYA RASHID JAMAL ]
 
 🎓 B.Tech Aerospace Engineering Student  
 📍 VIT Bhopal  
