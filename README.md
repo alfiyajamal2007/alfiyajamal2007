@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm [Your Name]
+
+🎓 B.Tech Aerospace Engineering Student  
+📍 VIT Bhopal  
+
+I am passionate about aerospace, technology, and learning new skills.  
+I aim to build strong technical knowledge and work on innovative projects in the future## Hi there 👋
 
 <!--
 **alfiyajamal2007/alfiyajamal2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
